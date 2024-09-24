@@ -9,5 +9,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://www.littlecarrot.top/sitemap.xml
-Sitemap: https://www.littlecarrot.top/baidusitemap.xml
+Sitemap: https://luobo.life/sitemap.xml
+Sitemap: https://luobo.life/baidusitemap.xml
